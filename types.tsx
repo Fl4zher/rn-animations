@@ -10,7 +10,10 @@ export type BottomTabParamList = {
 
 export type TabOneParamList = {
   TabOneScreen: undefined;
+  Basics: undefined;
   Transitions: undefined;
+  ProgressBars: undefined;
+  Countdown: undefined;
 };
 
 export type TabTwoParamList = {

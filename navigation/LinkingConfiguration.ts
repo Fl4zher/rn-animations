@@ -9,7 +9,8 @@ export default {
           TabOne: {
             screens: {
               TabOneScreen: 'one',
-              TransitionScreen: 'transitions'
+              TransitionScreen: 'transitions',
+              BasicScreen: 'basic'
             },
           },
           TabTwo: {
